@@ -5,7 +5,6 @@
   </PropertyGroup>
   
   <ItemGroup>
-    <None Include="wwwroot/**"></None>
+    <None Include="wwwroot/**" CopyToPublishDirectory="Always"></None>
   </ItemGroup>
-
 </Project>
